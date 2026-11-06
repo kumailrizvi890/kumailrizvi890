@@ -1,29 +1,31 @@
 # Hi, I'm Kumail Rizvi 👋
 
 **Computer Science & Software Engineering @ UW Bothell** (GPA 3.60 · graduating Dec 2027)
-**Seeking Summer 2027 internships in Software Engineering & AI Engineering** · Seattle, WA
+**Seeking a Summer 2027 software engineering or AI internship** · Seattle, WA
 
-I build full-stack products end to end and ship them live — real backends, real databases, real users of the demos.
+I build full-stack apps end to end and deploy them, so every project below has code you can read and a demo you can click.
 
 ## 🚀 Featured projects
 
-- **[Portfolio Platform](https://github.com/kumailrizvi890/portfolio)** — a portfolio where every demo runs real backend code: a Go serverless service, Python AI services (scam classification, retrieval-grounded chat), and TypeScript APIs on Supabase PostgreSQL with row-level security. Live: [portfolio-kumailr.vercel.app](https://portfolio-kumailr.vercel.app)
-- **[PawPass](https://github.com/kumailrizvi890/PawPass)** — offline-first PWA for animal shelters and fosters: pet profiles, care logs, emergency flagging. Flask + PostgreSQL REST API, cache-first PWA with background sync, AI care assistant.
-- **[Fade Kings Booking Platform](https://github.com/kumailrizvi890/Barber-Shop)** — complete barbershop booking system: guest checkout, barber approvals, rewards program, owner dashboard with live bookings (Supabase Realtime).
-- **[Fast Bowls](https://github.com/kumailrizvi890/fast-bowls)** — real-time restaurant ordering system with a visual bowl builder, live menu/order backend, and a staff admin dashboard.
+- **[Ask Kumail](https://github.com/kumailrizvi890/ask-kumail)**: a RAG assistant and remote MCP server over my resume and project docs. Hybrid retrieval (BM25 + embeddings, merged with reciprocal rank fusion), cited answers, a labeled retrieval eval, and unit tests. Next.js, TypeScript, Vercel AI SDK. [Live](https://ask-kumail.vercel.app)
+- **[TradePro](https://github.com/kumailrizvi890/TradePro)**: paper-trading terminal tracking 25 crypto and US-equity symbols, with an 8-factor confluence gate, ATR-based position sizing and an SMA-crossover paper engine. Python, Flask, Supabase. [Live](https://tradepro-kumailr.vercel.app)
+- **[Fade Kings](https://github.com/kumailrizvi890/Barber-Shop)**: barbershop booking app (demo build) with customer, barber and owner roles, guest checkout via anonymous sign-in, row-level security and a Realtime owner dashboard. Next.js, TypeScript, Supabase. [Live](https://fade-kings-kumailr.vercel.app)
+- **[PawPass](https://github.com/kumailrizvi890/PawPass)**: offline-first PWA for animal shelters and foster volunteers. Flask REST API on PostgreSQL, cache-first service worker with background sync, Gemini care assistant. [Live](https://pawpass-kumailr.vercel.app)
+- **[Ops Automation](https://github.com/kumailrizvi890/Ops-Automation)**: four scheduled workflows (job crawling, lead enrichment, interview slot matching, follow-up drafting) on Vercel Cron, with every run logged to Supabase. [Live](https://ops-automation-kumailr.vercel.app)
+- **[Qmail](https://github.com/garv-seth/qmail)**: team project, 5th place at WSU Hackathon 2025. AI scam-detection email client using OpenAI; I led branding, UX and documentation.
 
-## 📊 Data & AI
+All of them are collected on my **[portfolio](https://portfolio-kumailr.vercel.app)**.
 
-- Completed the **Global Accelerator "Data Wrangling with SQL"** program (Fall 2026): seven analyst projects in SQL — including a 22,576-user revenue segmentation graded with no corrections needed.
-- Built a **multi-agent workflow automation system** on Claude with 10+ MCP tool integrations: lead research, outreach drafting, and website auditing, with a live Supabase-backed operations dashboard.
-- Co-built **Qmail**, an AI scam-detection email client — 5th place, WSU Hackathon 2025.
+## 📊 Data
+
+- **Global Career Accelerator, Data Wrangling with SQL** (2026): seven SQL analysis milestones, including segmenting 22,576 game users by spend.
 
 ## 🛠 Tech I work with
 
 **Languages:** Python · TypeScript · JavaScript · Java · Go · SQL
 **Frontend:** React · Next.js · Tailwind CSS
-**Backend & Data:** PostgreSQL · Supabase · Flask · REST APIs · Vercel serverless
-**AI:** LLM apps · RAG · AI agents · MCP tools · Prompt engineering
+**Backend & Data:** Flask · Node.js · PostgreSQL · Supabase · REST APIs · Vercel
+**AI:** RAG · embeddings · MCP servers · OpenAI, Gemini and Claude APIs
 
 ## 📫 Reach me
 
